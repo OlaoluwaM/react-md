@@ -1,0 +1,23 @@
+{
+  "name": "react-md",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "transpile": "npx babel --"
+  },
+  "keywords": [],
+  "author": "Olaoluwa Mustapha <jomeemustapha@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10"
+  }
+}
